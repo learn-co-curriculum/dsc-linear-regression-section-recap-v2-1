@@ -15,7 +15,7 @@ Key takeaways include:
 - A loss function calculates how well a given model represents the relationship between data values
 - A linear regression is simply a (straight) line of best fit for predicting a continuous value (y = mx + c)
 - The Coefficient of Determination (R Squared) can be used to determine how well a given line fits a given data set
-- Certain assumptions must hold true for a least squares linear regression to be useful - linearity, normality and heteroscedasticity
+- Certain assumptions must hold true for a least squares linear regression to be useful - linearity, normality, and homoscedasticity
 - Q-Q plots can check for normality in residual errors
 - The Jarque-Bera test can be used to test for normality - especially when the number of data points is large
 - The Goldfeld-Quant test can be used to check for homoscedasticity
